@@ -2,7 +2,7 @@
 
 ## ⚡ About Me
 
-Fullstack developer with experience in JavaScript, React, Redux, Node.js, and MongoDB. Experienced in creating single-page applications (SPA), integrating REST API, and implementing responsive and adaptive user interface components. Experience working in an Agile/Scrum environment, adhering to best practices in coding, version control (Git), and performance optimisation techniques. Strong problem-solving skills and a proactive approach to developing scalable web solutions.
+Fullstack developer with experience in JavaScript, React, Node.js, and MongoDB. Experienced in creating single-page applications (SPA), integrating REST API, and implementing responsive and adaptive user interface components. Experience working in an Agile/Scrum environment, adhering to best practices in coding, version control (Git), and performance optimisation techniques. Strong problem-solving skills and a proactive approach to developing scalable web solutions.
 
 ## 🧰 Tech Stack  
 
@@ -15,7 +15,7 @@ JavaScript | TypeScript | Node.js | React | Next.js
 
 ## 🗣️ Languages
 
-![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
+![English](https://img.shields.io/badge/English-B1-blue?style=flat-square)
 
 ![Russian](https://img.shields.io/badge/Russian-C1-blue?style=flat-square)
 
